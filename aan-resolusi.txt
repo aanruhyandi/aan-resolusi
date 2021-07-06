@@ -3,3 +3,5 @@ saya ingin konsisten belajar web pemograman
 menguasai bahasa pemograman PHP
 belajar framework CI
 belajar database SQL
+Lancar menggunakan HTML
+menjadi programer handal
