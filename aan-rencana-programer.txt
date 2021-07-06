@@ -1,6 +1,6 @@
 PHP
 - PHP dasar
   web programing
-  software enginer
+  mobile programing
 - framework CI
 - framework Laravel
